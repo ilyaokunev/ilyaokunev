@@ -5,10 +5,10 @@
 ## My Latest Projects:
 <pre>              Louvre museum        |           Art-quiz          |          Momentum           |      Crypto-converter</pre>
 <div align="center">
-  <a href='https://rolling-scopes-school.github.io/ilyaokunev-JSFE2021Q3/museum/'><img src="https://user-images.githubusercontent.com/79788386/153213256-8e363221-3f69-449c-ab70-17d44d96ff35.png" alt="museum" width="220"/></a>
-<a href='https://rolling-scopes-school.github.io/ilyaokunev-JSFE2021Q3/art-quiz/'><img src="https://user-images.githubusercontent.com/79788386/153214398-ad75e6e5-030c-45a6-a422-d57db82e940a.png" alt="art-quiz" width="220"/></a> 
-<a href='https://rolling-scopes-school.github.io/ilyaokunev-JSFE2021Q3/momentum/'><img src="https://user-images.githubusercontent.com/79788386/153214752-1fd91429-fc04-48de-b097-995edfb66be1.png" alt="momentum" width="220"/></a>
-<a href='https://ilyaokunev.github.io/crypto-convertor/'><img src="https://user-images.githubusercontent.com/79788386/153215435-2821f2d8-bf69-4cb9-8c34-894d824bbc33.png" alt="converter" width="220"/></a>
+  <a href='https://rolling-scopes-school.github.io/ilyaokunev-JSFE2021Q3/museum/'><img src="https://user-images.githubusercontent.com/79788386/153213256-8e363221-3f69-449c-ab70-17d44d96ff35.png" alt="museum" width="180"/></a>
+<a href='https://rolling-scopes-school.github.io/ilyaokunev-JSFE2021Q3/art-quiz/'><img src="https://user-images.githubusercontent.com/79788386/153214398-ad75e6e5-030c-45a6-a422-d57db82e940a.png" alt="art-quiz" width="180"/></a> 
+<a href='https://rolling-scopes-school.github.io/ilyaokunev-JSFE2021Q3/momentum/'><img src="https://user-images.githubusercontent.com/79788386/153214752-1fd91429-fc04-48de-b097-995edfb66be1.png" alt="momentum" width="180"/></a>
+<a href='https://ilyaokunev.github.io/crypto-convertor/'><img src="https://user-images.githubusercontent.com/79788386/153215435-2821f2d8-bf69-4cb9-8c34-894d824bbc33.png" alt="converter" width="180"/></a>
 </div>
 
 

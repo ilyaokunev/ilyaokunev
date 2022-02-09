@@ -15,8 +15,9 @@
 
 ## Contacts:
 
-[![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail)](mailto:zhoramc1@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram?style=for-the-badge&logo=gmail)](https://t.me/zhoramc2)
+[![Email](https://img.shields.io/badge/zhoramc1@gmail.com-black?style=for-the-badge&logo=gmail)](mailto:zhoramc1@gmail.com)
+[![Telegram](https://img.shields.io/badge/zhoramc2-black?style=for-the-badge&logo=telegram)](https://t.me/zhoramc2)
+[![Discord](https://img.shields.io/badge/futura_%236657-black?style=for-the-badge&logo=discord)]()
 
 
 

@@ -19,8 +19,12 @@
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript)
 ![Webpack](https://img.shields.io/badge/Webpack-black?style=for-the-badge&logo=webpack)
 ![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript)
-![Node](https://img.shields.io/badge/Node-black?style=for-the-badge&logo=node.js)
+![Node](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Angular](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular&logoColor=DD0031)
+![GIT](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-black?style=for-the-badge&logo=adobephotoshop)
 
 ## Contacts:
 

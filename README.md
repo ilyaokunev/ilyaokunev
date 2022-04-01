@@ -1,6 +1,6 @@
 [![Header](https://user-images.githubusercontent.com/79788386/153196716-0fc5e091-df07-49f8-b71a-1ee9dc2f2644.png)](https://ilyaokunev.github.io/rsschool-cv/)
 
-## I am a beginner front-end developer from Minsk, Belarus. I almost finished RSSchool Javascript course.  
+## I am a beginner front-end developer from Minsk, Belarus. I finished RSSchool Javascript course and entered EPAM JS Lab.  
 
 ## My Latest Projects:
 <pre>        Louvre museum        |          Art-quiz         |          Momentum         |      Crypto-converter</pre>

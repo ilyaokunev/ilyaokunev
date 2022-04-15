@@ -15,8 +15,7 @@
 ## Languages and tools:
 ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=blue)
-![SCSS](https://img.shields.io/badge/SCSS-black?style=for-the-badge&logo=SCSS&logoColor=pink)
-![SASS](https://img.shields.io/badge/SASS-black.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-black.svg?style=for-the-badge&logo=SASS&logoColor=pink)
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript)
 ![Webpack](https://img.shields.io/badge/Webpack-black?style=for-the-badge&logo=webpack)
 ![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript)
@@ -26,13 +25,13 @@
 ![GIT](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
-![Jest](https://img.shields.io/badge/jest-black?&style=for-the-badge&logo=jest&logoColor=red)
+![Jest](https://img.shields.io/badge/jest-%23000000?&style=for-the-badge&logo=jest&logoColor=red)
 ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-black?style=for-the-badge&logo=adobephotoshop)
 
 ### 🎓 Certificates:
 
-- [JS/FE Pre-School](https://app.rs.school/certificate/wk2p6gwx)
-- [ST 2021 Q3](https://app.rs.school/certificate/i7osa4k0)
+- [JS/FE Pre-School](https://app.rs.school/certificate/n3xgty2p)
+- [ST 2021 Q3](https://app.rs.school/certificate/8ot2iapi)
 
 ## Contacts:
 

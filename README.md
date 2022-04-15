@@ -9,11 +9,8 @@
 <a href='https://rolling-scopes-school.github.io/ilyaokunev-JSFE2021Q3/art-quiz/'><img src="https://user-images.githubusercontent.com/79788386/153214398-ad75e6e5-030c-45a6-a422-d57db82e940a.png" alt="art-quiz" width="140"/></a> 
 <a href='https://rolling-scopes-school.github.io/ilyaokunev-JSFE2021Q3/momentum/'><img src="https://user-images.githubusercontent.com/79788386/153214752-1fd91429-fc04-48de-b097-995edfb66be1.png" alt="momentum" width="140"/></a>
 <a href='https://ilyaokunev.github.io/crypto-convertor/'><img src="https://user-images.githubusercontent.com/79788386/153215435-2821f2d8-bf69-4cb9-8c34-894d824bbc33.png" alt="converter" width="140"/></a>
-  <a href='https://6218b4221f583e96832750b5--agitated-khorana-6ac044.netlify.app/'><img src="https://user-images.githubusercontent.com/79788386/163568157-4bf76651-a692-40a3-b010-652dd75cff85.png" alt="To Do List" width="140"/></a>
+  <a href='https://6218b4221f583e96832750b5--agitated-khorana-6ac044.netlify.app/'><img src="https://user-images.githubusercontent.com/79788386/163568371-220fbdd3-8166-4ba7-bdb1-7c8b4a1e0385.png" alt="To Do List" width="140"/></a>
 </div>
-
-![angular](https://user-images.githubusercontent.com/79788386/163568157-4bf76651-a692-40a3-b010-652dd75cff85.png)
-
 
 
 ## Languages and tools:

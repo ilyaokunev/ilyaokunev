@@ -1,8 +1,8 @@
 [![Header](https://user-images.githubusercontent.com/79788386/153196716-0fc5e091-df07-49f8-b71a-1ee9dc2f2644.png)](https://ilyaokunev.github.io/rsschool-cv/)
 
-## I am a beginner front-end developer from Minsk, Belarus. I finished RSSchool Javascript course and entered EPAM JS Lab.  
+### I am a beginner front-end developer from Minsk, Belarus. I finished RSSchool Javascript course and entered EPAM JS Lab.  
 
-## 💻 My Latest Projects:
+## 💼 My Latest Projects:
 <pre>    Louvre museum     |       Art-quiz       |       Momentum       |  Angular To-Do List  | React Crypto-converter</pre>
 <div align="center">
   <a href='https://rolling-scopes-school.github.io/ilyaokunev-JSFE2021Q3/museum/'><img src="https://user-images.githubusercontent.com/79788386/153213256-8e363221-3f69-449c-ab70-17d44d96ff35.png" alt="museum" width="148"/></a>
@@ -12,7 +12,7 @@
   <a href='https://ilyaokunev.github.io/crypto-convertor/'><img src="https://user-images.githubusercontent.com/79788386/153215435-2821f2d8-bf69-4cb9-8c34-894d824bbc33.png" alt="converter" width="148"/></a>
 </div>
 
-## Languages and tools:
+## ⚙ Languages and tools:
 ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=blue)
 ![SASS](https://img.shields.io/badge/SASS-black.svg?style=for-the-badge&logo=SASS&logoColor=pink)
@@ -28,12 +28,12 @@
 ![Jest](https://img.shields.io/badge/jest-%23000000?&style=for-the-badge&logo=jest&logoColor=red)
 ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-black?style=for-the-badge&logo=adobephotoshop)
 
-### 🎓 Certificates:
+## 🎓 Certificates:
 
 - [JS/FE Pre-School](https://app.rs.school/certificate/n3xgty2p)
 - [ST 2021 Q3](https://app.rs.school/certificate/8ot2iapi)
 
-## Contacts:
+## 📬 Contacts:
 
 [![Email](https://img.shields.io/badge/zhoramc1@gmail.com-black?style=for-the-badge&logo=gmail)](mailto:zhoramc1@gmail.com)
 [![Telegram](https://img.shields.io/badge/zhoramc2-black?style=for-the-badge&logo=telegram)](https://t.me/zhoramc2)

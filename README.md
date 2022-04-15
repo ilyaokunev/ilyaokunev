@@ -2,7 +2,7 @@
 
 ## I am a beginner front-end developer from Minsk, Belarus. I finished RSSchool Javascript course and entered EPAM JS Lab.  
 
-## My Latest Projects:
+## 💻 My Latest Projects:
 <pre>    Louvre museum     |       Art-quiz       |       Momentum       |  Angular To-Do List  | React Crypto-converter</pre>
 <div align="center">
   <a href='https://rolling-scopes-school.github.io/ilyaokunev-JSFE2021Q3/museum/'><img src="https://user-images.githubusercontent.com/79788386/153213256-8e363221-3f69-449c-ab70-17d44d96ff35.png" alt="museum" width="148"/></a>
@@ -17,6 +17,7 @@
 ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=blue)
 ![SCSS](https://img.shields.io/badge/SCSS-black?style=for-the-badge&logo=scss&logoColor=pink)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript)
 ![Webpack](https://img.shields.io/badge/Webpack-black?style=for-the-badge&logo=webpack)
 ![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript)
@@ -24,8 +25,15 @@
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![Angular](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular&logoColor=DD0031)
 ![GIT](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+![Jest](https://img.shields.io/badge/jest-C21325?&style=for-the-badge&logo=jest&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-black?style=for-the-badge&logo=adobephotoshop)
+
+### 🎓 Certificates:
+
+- [JS/FE Pre-School](https://app.rs.school/certificate/wk2p6gwx)
+- [ST 2021 Q3](https://app.rs.school/certificate/i7osa4k0)
 
 ## Contacts:
 

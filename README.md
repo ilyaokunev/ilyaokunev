@@ -5,11 +5,11 @@
 ## My Latest Projects:
 <pre>   Louvre museum     |        Art-quiz       |        Momentum       |  Angular To-Do List  |React Crypto-converter</pre>
 <div align="center">
-  <a href='https://rolling-scopes-school.github.io/ilyaokunev-JSFE2021Q3/museum/'><img src="https://user-images.githubusercontent.com/79788386/153213256-8e363221-3f69-449c-ab70-17d44d96ff35.png" alt="museum" width="150"/></a>
-<a href='https://rolling-scopes-school.github.io/ilyaokunev-JSFE2021Q3/art-quiz/'><img src="https://user-images.githubusercontent.com/79788386/153214398-ad75e6e5-030c-45a6-a422-d57db82e940a.png" alt="art-quiz" width="150"/></a> 
-<a href='https://rolling-scopes-school.github.io/ilyaokunev-JSFE2021Q3/momentum/'><img src="https://user-images.githubusercontent.com/79788386/153214752-1fd91429-fc04-48de-b097-995edfb66be1.png" alt="momentum" width="150"/></a>
-  <a href='https://6218b4221f583e96832750b5--agitated-khorana-6ac044.netlify.app/'><img src="https://user-images.githubusercontent.com/79788386/163568371-220fbdd3-8166-4ba7-bdb1-7c8b4a1e0385.png" alt="To Do List" width="150"/></a>
-  <a href='https://ilyaokunev.github.io/crypto-convertor/'><img src="https://user-images.githubusercontent.com/79788386/153215435-2821f2d8-bf69-4cb9-8c34-894d824bbc33.png" alt="converter" width="150"/></a>
+  <a href='https://rolling-scopes-school.github.io/ilyaokunev-JSFE2021Q3/museum/'><img src="https://user-images.githubusercontent.com/79788386/153213256-8e363221-3f69-449c-ab70-17d44d96ff35.png" alt="museum" width="145"/></a>
+<a href='https://rolling-scopes-school.github.io/ilyaokunev-JSFE2021Q3/art-quiz/'><img src="https://user-images.githubusercontent.com/79788386/153214398-ad75e6e5-030c-45a6-a422-d57db82e940a.png" alt="art-quiz" width="145"/></a> 
+<a href='https://rolling-scopes-school.github.io/ilyaokunev-JSFE2021Q3/momentum/'><img src="https://user-images.githubusercontent.com/79788386/153214752-1fd91429-fc04-48de-b097-995edfb66be1.png" alt="momentum" width="145"/></a>
+  <a href='https://6218b4221f583e96832750b5--agitated-khorana-6ac044.netlify.app/'><img src="https://user-images.githubusercontent.com/79788386/163568371-220fbdd3-8166-4ba7-bdb1-7c8b4a1e0385.png" alt="To Do List" width="145"/></a>
+  <a href='https://ilyaokunev.github.io/crypto-convertor/'><img src="https://user-images.githubusercontent.com/79788386/153215435-2821f2d8-bf69-4cb9-8c34-894d824bbc33.png" alt="converter" width="145"/></a>
 </div>
 
 

@@ -12,12 +12,11 @@
   <a href='https://ilyaokunev.github.io/crypto-convertor/'><img src="https://user-images.githubusercontent.com/79788386/153215435-2821f2d8-bf69-4cb9-8c34-894d824bbc33.png" alt="converter" width="148"/></a>
 </div>
 
-
 ## Languages and tools:
 ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=blue)
-![SCSS](https://img.shields.io/badge/SCSS-black?style=for-the-badge&logo=scss&logoColor=pink)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-black?style=for-the-badge&logo=SCSS&logoColor=pink)
+![SASS](https://img.shields.io/badge/SASS-black.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript)
 ![Webpack](https://img.shields.io/badge/Webpack-black?style=for-the-badge&logo=webpack)
 ![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript)
@@ -27,7 +26,7 @@
 ![GIT](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
-![Jest](https://img.shields.io/badge/jest-C21325?&style=for-the-badge&logo=jest&logoColor=white)
+![Jest](https://img.shields.io/badge/jest-black?&style=for-the-badge&logo=jest&logoColor=red)
 ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-black?style=for-the-badge&logo=adobephotoshop)
 
 ### 🎓 Certificates:

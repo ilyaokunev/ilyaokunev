@@ -3,7 +3,7 @@
 ## I am a beginner front-end developer from Minsk, Belarus. I finished RSSchool Javascript course and entered EPAM JS Lab.  
 
 ## My Latest Projects:
-<pre>   Louvre museum      |       Art-quiz       |       Momentum       | React Crypto-converter |  Angular ToDo List</pre>
+<pre>   Louvre museum     |       Art-quiz       |       Momentum       | React Crypto-converter | Angular ToDo List</pre>
 <div align="center">
   <a href='https://rolling-scopes-school.github.io/ilyaokunev-JSFE2021Q3/museum/'><img src="https://user-images.githubusercontent.com/79788386/153213256-8e363221-3f69-449c-ab70-17d44d96ff35.png" alt="museum" width="150"/></a>
 <a href='https://rolling-scopes-school.github.io/ilyaokunev-JSFE2021Q3/art-quiz/'><img src="https://user-images.githubusercontent.com/79788386/153214398-ad75e6e5-030c-45a6-a422-d57db82e940a.png" alt="art-quiz" width="150"/></a> 

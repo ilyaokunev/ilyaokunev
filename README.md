@@ -15,7 +15,7 @@
 ### ⚙ Languages and tools:
 ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=blue)
-![SASS](https://img.shields.io/badge/SASS-black.svg?style=for-the-badge&logo=SASS&logoColor=pink)
+![SASS](https://img.shields.io/badge/SASS-#cf649a?style=for-the-badge&logo=SASS&logoColor=pink)
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript)
 ![Webpack](https://img.shields.io/badge/Webpack-black?style=for-the-badge&logo=webpack)
 ![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript)
